@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![Joy879](https://circleci.com/gh/Joy879/Serverless-ML-Project.svg?style=svg)](https://circleci.com/gh/Joy879/Serverless-ML-Project)
+
 
 ## Project Overview
 
