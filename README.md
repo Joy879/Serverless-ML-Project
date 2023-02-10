@@ -1,4 +1,4 @@
-[![Joy879](https://circleci.com/gh/Joy879/Serverless-ML-Project.svg?style=svg)](https://circleci.com/gh/Joy879/Serverless-ML-Project)
+[![Joy879](https://circleci.com/gh/Joy879/Serverless-ML-Project.svg?style=shield)](https://circleci.com/gh/Joy879/Serverless-ML-Project)
 
 
 ## Project Overview
