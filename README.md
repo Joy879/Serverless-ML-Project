@@ -25,18 +25,18 @@ My project goal is to operationalize this working, machine learning microservice
 ---
 ## Files
 
-[.circleci](https://github.com/Joy879/Serverless-ML-Project/tree/main/.circleci): For the CircleCI build server
-[model_data](https://github.com/Joy879/Serverless-ML-Project/tree/main/model_data) : this folder contains the pretrained sklearn model and housing csv files
-[output_txt_files](https://github.com/Joy879/Serverless-ML-Project/tree/main/output_txt_files): folder contains sample output logs from running ./run_docker.sh and ./run_kubernetes.sh
-[app.py](https://github.com/Joy879/Serverless-ML-Project/blob/main/app.py) : contains the flask app
-[Dockerfile](https://github.com/Joy879/Serverless-ML-Project/blob/main/Dockerfile): contains instructions to containerize the application
-[Makefile](https://github.com/Joy879/Serverless-ML-Project/blob/main/Makefile) : contains instructions for environment setup and lint tests
-[requirements.txt](https://github.com/Joy879/Serverless-ML-Project/blob/main/requirements.txt): list of required dependencies
-[run_docker.sh](https://github.com/Joy879/Serverless-ML-Project/blob/main/run_docker.sh): bash script to build Docker image and run the application in a Docker container
-[upload_docker.sh](https://github.com/Joy879/Serverless-ML-Project/blob/main/upload_docker.sh): bash script to upload the built Docker image to Dockerhub
-[run_kubernetes.sh](https://github.com/Joy879/Serverless-ML-Project/blob/main/run_kubernetes.sh): bash script to run the application in a Kubernetes cluster
-[make_prediction.sh](https://github.com/Joy879/Serverless-ML-Project/blob/main/make_prediction.sh): bash script to make predictions against the Docker container and k8s cluster
-[README.md](https://github.com/Joy879/Serverless-ML-Project/blob/main/README.md): this README file
+* [.circleci](https://github.com/Joy879/Serverless-ML-Project/tree/main/.circleci): For the CircleCI build server
+* [model_data](https://github.com/Joy879/Serverless-ML-Project/tree/main/model_data) : this folder contains the pretrained sklearn model and housing csv files
+* [output_txt_files](https://github.com/Joy879/Serverless-ML-Project/tree/main/output_txt_files): folder contains sample output logs from running ./run_docker.sh and ./run_kubernetes.sh
+* [app.py](https://github.com/Joy879/Serverless-ML-Project/blob/main/app.py) : contains the flask app
+* [Dockerfile](https://github.com/Joy879/Serverless-ML-Project/blob/main/Dockerfile): contains instructions to containerize the application
+* [Makefile](https://github.com/Joy879/Serverless-ML-Project/blob/main/Makefile) : contains instructions for environment setup and lint tests
+* [requirements.txt](https://github.com/Joy879/Serverless-ML-Project/blob/main/requirements.txt): list of required dependencies
+* [run_docker.sh](https://github.com/Joy879/Serverless-ML-Project/blob/main/run_docker.sh): bash script to build Docker image and run the application in a Docker container
+* [upload_docker.sh](https://github.com/Joy879/Serverless-ML-Project/blob/main/upload_docker.sh): bash script to upload the built Docker image to Dockerhub
+* [run_kubernetes.sh](https://github.com/Joy879/Serverless-ML-Project/blob/main/run_kubernetes.sh): bash script to run the application in a Kubernetes cluster
+* [make_prediction.sh](https://github.com/Joy879/Serverless-ML-Project/blob/main/make_prediction.sh): bash script to make predictions against the Docker container and k8s cluster
+* [README.md](https://github.com/Joy879/Serverless-ML-Project/blob/main/README.md): this README file
 ---
 
 ## Setup the Environment
